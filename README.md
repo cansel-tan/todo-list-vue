@@ -38,7 +38,7 @@ npm run lint
 
 ## App Screenshot
 
-![App Screenshot](./assets/todo-list.png)
+![App Screenshot](assets/todo-list.png)
 
 Frontend runs at: http://localhost:8080
 
